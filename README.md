@@ -67,8 +67,8 @@ Projeto acadêmico voltado para controle de estoque, versionamento com GitHub e 
 ## GitHub Stats
 
 <div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Joaovitor-bot&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitor-bot&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
