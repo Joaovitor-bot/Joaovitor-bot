@@ -66,17 +66,23 @@ Projeto acadêmico voltado para controle de estoque, versionamento com GitHub e 
 
 ## GitHub Stats
 
-<div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Joaovitor-bot&show_icons=true&theme=tokyonight"/>
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Joaovitor-bot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitor-bot&layout=compact&theme=tokyonight"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Joaovitor-bot&theme=tokyonight&hide_border=false"/>
 </div>
 
 ---
 
 ## Contato
 
-- Email: seuemail@email.com
-- GitHub: https://github.com/SEU_USUARIO
+- Email: joaojotaro6@gmail.com
+- GitHub: [https://github.com/SEU_USUARIO](https://github.com/Joaovitor-bot)
 
 ---
 
