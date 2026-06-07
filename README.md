@@ -1,89 +1,134 @@
-# Olá, eu sou João Vitor 👋
+<div align="center">
 
-Sou estudante de tecnologia e estou desenvolvendo projetos voltados para **desenvolvimento web**, **frontend**, **backend** e **DevOps**.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=Jo%C3%A3o%20Vitor&fontSize=42&fontColor=38bdf8&desc=Web%20Developer%20in%20Progress&descSize=16&descColor=22c55e" />
 
-Atualmente estou estudando e praticando com Angular, Python, Flask, Docker, Git e GitHub.
+<br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=%3E+Iniciando+jornada+na+tecnologia...;%3E+Estudando+Desenvolvimento+Web...;%3E+Aprendendo+Angular+e+TypeScript...;%3E+Criando+minha+base+como+dev...;%3E+Evoluindo+um+commit+por+vez." />
 
-## Sobre mim
+<br><br>
 
-- Estudante de tecnologia
-- Foco em desenvolvimento Frontend
-- Experiência com projetos acadêmicos usando Angular e Flask
-- Interesse em DevOps, Docker e versionamento com Git
-- Sempre buscando melhorar minhas habilidades através de projetos práticos
+<img src="https://img.shields.io/badge/Foco-Desenvolvimento%20Web-38bdf8?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Estudando-Angular%20%26%20TypeScript-22c55e?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Status-Em%20aprendizado-a855f7?style=for-the-badge&labelColor=0d1117" />
 
----
-
-## Tecnologias que estou estudando
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
 </div>
 
 ---
 
-## Projetos em destaque
+## ./sobre-mim
 
-### Gerenciador de Gastos
+Olá, eu sou **João Vitor**, estudante de **Análise e Desenvolvimento de Sistemas**.
 
-Aplicação web para controle de gastos pessoais, desenvolvida com frontend em Angular, backend em Flask, banco SQLite e execução com Docker.
+Estou construindo minha base na área de tecnologia com foco em **Desenvolvimento Web**, estudando criação de interfaces, lógica de programação, integração com APIs e versionamento de código.
 
-**Funcionalidades:**
+Atualmente estou aprendendo na prática, explorando novas ferramentas, melhorando minha organização com GitHub e desenvolvendo minha evolução como futuro profissional de tecnologia.
 
-- Cadastro de receitas e despesas
-- Listagem de lançamentos financeiros
-- Exibição de saldo atual
-- Relatórios mensais
-- Integração entre frontend e backend
-- Execução com Docker Compose
-
-**Tecnologias usadas:**
-
-`Angular` `TypeScript` `Python` `Flask` `SQLite` `Docker` `GitHub`
+Também tenho interesse em qualidade de software, testes básicos e boas práticas para entregar aplicações mais funcionais e bem organizadas.
 
 ---
 
-### Controle de Estoque DevOps
+## ./objetivo
 
-Projeto acadêmico voltado para controle de estoque, versionamento com GitHub e práticas de DevOps.
+Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia como **Desenvolvedor Web Júnior** ou **Estagiário em Desenvolvimento**.
 
-**Tecnologias usadas:**
-
-`Python` `Flask` `Docker` `Git` `GitHub`
+Busco crescer com projetos reais, desafios práticos, trabalho em equipe e aprendizado constante.
 
 ---
 
-## GitHub Stats
+## ./stack
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Joaovitor-bot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitor-bot&layout=compact&theme=tokyonight"/>
+
+### Desenvolvimento Web
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular&theme=dark" />
+
+### Ferramentas e tecnologias em aprendizado
+
+<img src="https://skillicons.dev/icons?i=python,flask,git,github,docker,vscode&theme=dark" />
+
+</div>
+
+---
+
+## ./aprendendo-agora
+
+```txt
+Angular
+TypeScript
+JavaScript
+HTML5
+CSS3
+Consumo de APIs
+Python com Flask
+Git e GitHub
+Docker
+Boas práticas de desenvolvimento
+Noções de testes de software
+```
+
+---
+
+## ./github-status
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=22c55e&text_color=c9d1d9" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" />
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Joaovitor-bot&theme=tokyonight&hide_border=false"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d1117&color=c9d1d9&line=22c55e&point=38bdf8&area=true&hide_border=true" />
+
 </div>
 
 ---
 
-## Contato
+## ./fora-do-codigo
 
-- Email: joaojotaro6@gmail.com
-- GitHub: [https://github.com/SEU_USUARIO](https://github.com/Joaovitor-bot)
+Além da tecnologia, também gosto de:
+
+```txt
+música
+academia
+Pokémon
+aprender coisas novas
+```
+
+Meu Pokémon favorito é o **Snorlax**.
+
+Para mim, ele representa equilíbrio: descansar quando necessário, mas continuar evoluindo com constância.
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+## ./contato
+
+<div align="center">
+
+<a href="https://github.com/SEU_USUARIO">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:SEU_EMAIL">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```txt
+status: aprendendo
+foco: desenvolvimento web
+meta: primeira oportunidade em tecnologia
+```
+
+</div>
