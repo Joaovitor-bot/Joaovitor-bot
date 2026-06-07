@@ -96,7 +96,7 @@ No meu perfil, uso essa inspiração como uma forma de representar evolução, p
 
 <div align="center">
 
-<img src="https://media.tenor.com/0AVbKGY_MxMAAAAC/jojo-joseph.gif" width="260" />
+<img src="https://media.tenor.com/0AVbKGY_MxMAAAAC/jojo-joseph.gif](https://media.tenor.com/kInezkNHuDwAAAAi/menacing-anime.gif" width="260" />
 
 </div>
 
