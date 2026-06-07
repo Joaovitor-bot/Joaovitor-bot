@@ -9,8 +9,8 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/Web%20Developer-6D28D9?style=for-the-badge&labelColor=16051f" />
+<img src="https://img.shields.io/badge/UX%2FUI-FACC15?style=for-the-badge&labelColor=16051f&color=FACC15" />
 <img src="https://img.shields.io/badge/Angular%20%7C%20TypeScript-DB2777?style=for-the-badge&labelColor=16051f" />
-<img src="https://img.shields.io/badge/Learning%20Arc-FACC15?style=for-the-badge&labelColor=16051f&color=FACC15" />
 
 <br><br>
 
@@ -52,35 +52,31 @@ Quero crescer com projetos reais, trabalho em equipe, boas práticas e desafios 
 
 ### ✅ Tecnologias que já tenho contato
 
-<div align="center">
+
 
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
 
-</div>
+
 
 <br>
 
 ### 📚 Tecnologias em aprendizado
 
-<div align="center">
+
 
 <img src="https://skillicons.dev/icons?i=ts,angular,react,python,docker,figma&theme=dark" />
 
-</div>
+
 
 ---
 
-## 📫 Contato
+<!-- Contato -->
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-1A0B2E?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/Email-1A0B2E?style=for-the-badge&logo=gmail&logoColor=FACC15" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-rodrigues-631a622b7/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaojotaro6@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 </div>
 
@@ -91,3 +87,5 @@ Quero crescer com projetos reais, trabalho em equipe, boas práticas e desafios 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&pause=1500&color=BB86FC&center=true&vCenter=true&width=650&lines=%E3%80%8C+Stand+em+desenvolvimento+%E3%80%8D;%E3%80%8C+Foco%2C+estilo+e+evolu%C3%A7%C3%A3o+%E3%80%8D" />
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=150&section=footer&color=gradient&customColorList=6,12,20,24,30" />
