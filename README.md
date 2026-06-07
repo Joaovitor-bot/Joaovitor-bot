@@ -1,16 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Jo%C3%A3o%20Rodrigues&fontSize=52&fontColor=38bdf8&fontAlignY=38&desc=Web%20Developer%20in%20Progress&descSize=22&descColor=22c55e&descAlignY=68" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,45:6d28d9,75:db2777,100:facc15&height=210&section=header&text=Jo%C3%A3o%20Rodrigues&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer%20in%20Progress%20%E2%80%A2%20Stand%20em%20Evolu%C3%A7%C3%A3o&descAlignY=58&descSize=18" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=%3E+Iniciando+jornada+na+tecnologia...;%3E+Estudando+Desenvolvimento+Web...;%3E+Aprendendo+Angular+e+TypeScript...;%3E+Criando+minha+base+como+dev...;%3E+Evoluindo+um+commit+por+vez." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=FACC15&center=true&vCenter=true&width=800&lines=%3E+Desenvolvendo+minha+jornada+na+tecnologia...;%3E+Aprendendo+Angular%2C+TypeScript+e+Web...;%3E+Evoluindo+meu+Stand+de+programa%C3%A7%C3%A3o...;%3E+Um+commit+por+vez...;%3E+Yare+Yare...+hora+de+codar." />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Foco-Desenvolvimento%20Web-38bdf8?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Estudando-Angular%20%26%20TypeScript-22c55e?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Status-Em%20aprendizado-a855f7?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Stand-Web%20Development-6d28d9?style=for-the-badge&labelColor=1a0b2e" />
+<img src="https://img.shields.io/badge/Power-Angular%20%26%20TypeScript-db2777?style=for-the-badge&labelColor=1a0b2e" />
+<img src="https://img.shields.io/badge/Mode-Learning%20Arc-facc15?style=for-the-badge&labelColor=1a0b2e&color=facc15" />
+
+<br><br>
+
+### 「 Olá, eu sou João Rodrigues 」
+
+**Estudante de ADS • Desenvolvedor Web em formação • Evoluindo meu Stand de código**
 
 </div>
 
@@ -34,15 +40,24 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia co
 
 Busco crescer com projetos reais, desafios práticos, trabalho em equipe e aprendizado constante.
 
+```txt
+Stand atual: Aprendizado
+Habilidade: Evoluir com prática
+Fraqueza: Bugs inesperados
+Objetivo: Primeira oportunidade em tecnologia
+```
+
 ---
 
-## 🛠️ Stack Tecnológico
+## ./stack
 
 <div align="center">
 
 ### Desenvolvimento Web
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular&theme=dark" />
+
+<br><br>
 
 ### Ferramentas e tecnologias em aprendizado
 
@@ -66,3 +81,78 @@ Git e GitHub
 Docker
 Boas práticas de desenvolvimento
 Noções de testes de software
+```
+
+---
+
+## ./github-status
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=facc15&icon_color=db2777&text_color=ffffff" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=facc15&text_color=ffffff" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=1a0b2e&color=ffffff&line=facc15&point=db2777&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## ./fora-do-codigo
+
+Além da tecnologia, também gosto de:
+
+```txt
+música
+academia
+anime
+Pokémon
+aprender coisas novas
+```
+
+Sou fã de **JoJo’s Bizarre Adventure** e gosto muito dessa estética exagerada, marcante e cheia de personalidade.
+
+No meu perfil, quis trazer essa ideia de evolução, presença e estilo, mas aplicada à minha jornada na tecnologia.
+
+Meu Pokémon favorito é o **Snorlax**.
+
+Para mim, ele representa equilíbrio: descansar quando necessário, mas continuar evoluindo com constância.
+
+---
+
+## ./contato
+
+<div align="center">
+
+<a href="https://github.com/SEU_USUARIO">
+  <img src="https://img.shields.io/badge/GitHub-1a0b2e?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:SEU_EMAIL">
+  <img src="https://img.shields.io/badge/Email-1a0b2e?style=for-the-badge&logo=gmail&logoColor=facc15" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```txt
+status: aprendendo
+foco: desenvolvimento web
+meta: primeira oportunidade em tecnologia
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,45:6d28d9,75:db2777,100:facc15&height=120&section=footer" width="100%" />
+
+</div>
