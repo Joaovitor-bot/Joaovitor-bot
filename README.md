@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=Jo%C3%A3o%20Vitor&fontSize=42&fontColor=38bdf8&desc=Web%20Developer%20in%20Progress&descSize=16&descColor=22c55e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Jo%C3%A3o%20Rodrigues&fontSize=52&fontColor=38bdf8&fontAlignY=38&desc=Web%20Developer%20in%20Progress&descSize=22&descColor=22c55e&descAlignY=68" />
 
 <br>
 
@@ -18,7 +18,7 @@
 
 ## ./sobre-mim
 
-Olá, eu sou **João Vitor**, estudante de **Análise e Desenvolvimento de Sistemas**.
+Olá, eu sou **João Rodrigues**, estudante de **Análise e Desenvolvimento de Sistemas**.
 
 Estou construindo minha base na área de tecnologia com foco em **Desenvolvimento Web**, estudando criação de interfaces, lógica de programação, integração com APIs e versionamento de código.
 
@@ -66,69 +66,3 @@ Git e GitHub
 Docker
 Boas práticas de desenvolvimento
 Noções de testes de software
-```
-
----
-
-## ./github-status
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=22c55e&text_color=c9d1d9" />
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d1117&color=c9d1d9&line=22c55e&point=38bdf8&area=true&hide_border=true" />
-
-</div>
-
----
-
-## ./fora-do-codigo
-
-Além da tecnologia, também gosto de:
-
-```txt
-música
-academia
-Pokémon
-aprender coisas novas
-```
-
-Meu Pokémon favorito é o **Snorlax**.
-
-Para mim, ele representa equilíbrio: descansar quando necessário, mas continuar evoluindo com constância.
-
----
-
-## ./contato
-
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-```txt
-status: aprendendo
-foco: desenvolvimento web
-meta: primeira oportunidade em tecnologia
-```
-
-</div>
