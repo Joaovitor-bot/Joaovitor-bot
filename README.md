@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&pause=1500&color=BB86FC&center=true&vCenter=true&width=650&lines=%E3%80%8C+Stand+em+desenvolvimento+%E3%80%8D;%E3%80%8C+Foco%2C+estilo+e+evolu%C3%A7%C3%A3o+%E3%80%8D" />
+
 
 </div>
 
@@ -86,10 +86,6 @@ Quero crescer com projetos reais, trabalho em equipe, boas práticas e desafios 
 
 <div align="center">
 
-```txt
-status: aprendendo
-foco: desenvolvimento web
-meta: primeira oportunidade em tecnologia
-```
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&pause=1500&color=BB86FC&center=true&vCenter=true&width=650&lines=%E3%80%8C+Stand+em+desenvolvimento+%E3%80%8D;%E3%80%8C+Foco%2C+estilo+e+evolu%C3%A7%C3%A3o+%E3%80%8D" />
 
 </div>
