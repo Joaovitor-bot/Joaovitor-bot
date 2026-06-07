@@ -96,7 +96,7 @@ No meu perfil, uso essa inspiração como uma forma de representar evolução, p
 
 <div align="center">
 
-<img src="https://media.tenor.com/0AVbKGY_MxMAAAAC/jojo-joseph.gif" width="260" />
+<div class="tenor-gif-embed" data-postid="14798256" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/menacing-anime-jojo-anime-menacing-jojo-bizarre-adventure-gif-14798256">Menacing Anime Sticker</a>from <a href="https://tenor.com/search/menacing-stickers">Menacing Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 </div>
 
