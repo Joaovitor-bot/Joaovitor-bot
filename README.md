@@ -36,7 +36,7 @@ Busco crescer com projetos reais, desafios práticos, trabalho em equipe e apren
 
 ---
 
-## ./stack
+## 🛠️ Stack Tecnológico
 
 <div align="center">
 
