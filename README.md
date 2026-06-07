@@ -14,11 +14,9 @@
 
 <br><br>
 
+ <img height="100" src="https://media.tenor.com/3AANNnrkPFgAAAAj/king-of-fighters.gif"  />
+ 
 <br clear="both">
-
-  <div align="center">
-  <img height="100" src="https://media.tenor.com/3AANNnrkPFgAAAAj/king-of-fighters.gif"  />
-</div>
 
 </div>
 
