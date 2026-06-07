@@ -16,9 +16,10 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="150" src="https://media.tenor.com/PePEtHYGMosAAAAi/frieren-spinning-maxgames331535.gif"  />
-</div>
+<img height="100" src="https://media.tenor.com/UXhi2tYNJXQAAAAi/kof-leona-heidern.gif"  />
+<img height="100" src="https://media.tenor.com/0STCpSXAinYAAAAi/iori-yagami.gif">
+<img height="100" src="https://media.tenor.com/tr7UGt29O_4AAAAi/terry-bogard-terry.gif"  />
+
 
 ###
 
