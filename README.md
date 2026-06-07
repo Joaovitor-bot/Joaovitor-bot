@@ -14,7 +14,13 @@
 
 <br><br>
 
+<br clear="both">
 
+<div align="center">
+  <img height="150" src="https://media.tenor.com/PePEtHYGMosAAAAi/frieren-spinning-maxgames331535.gif"  />
+</div>
+
+###
 
 </div>
 
