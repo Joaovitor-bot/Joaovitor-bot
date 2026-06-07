@@ -32,10 +32,13 @@ Atualmente estou aprendendo na prática, desenvolvendo projetos, testando soluç
 
 Também tenho interesse em boas práticas, organização de código e qualidade de software.
 
+Além da programação, gosto de cinema, música e musculação, hobbies que fazem parte da minha rotina e da minha forma de evoluir constantemente.
+
 ```txt
-Stand atual: Aprendizado
-Habilidade: Evoluir com prática
-Objetivo: Primeira oportunidade em tecnologia
+Favorite Movie: Scream
+Favorite Artist: Adele, Lady Gaga, Lana del Rey
+Hobby: Musculação
+
 ```
 
 ---
