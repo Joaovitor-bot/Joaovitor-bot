@@ -2,76 +2,137 @@
 
 # João Rodrigues
 
-### Desenvolvimento Web em formação
+### 「 Web Developer em formação 」
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=BB86FC&center=true&vCenter=true&width=700&lines=Estudando+Angular+e+TypeScript;Construindo+minha+jornada+na+tecnologia;Aprendendo+um+commit+por+vez;Desenvolvedor+Web+em+evolu%C3%A7%C3%A3o" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=FACC15&center=true&vCenter=true&width=800&lines=Desenvolvendo+minha+jornada+na+tecnologia...;Estudando+Angular%2C+TypeScript+e+React...;Criando+minha+base+como+desenvolvedor...;Evoluindo+um+commit+por+vez...;Yare+Yare...+hora+de+codar." />
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/Foco-Web%20Development-6D28D9?style=for-the-badge&labelColor=111827" />
-<img src="https://img.shields.io/badge/Estudando-Angular-DB2777?style=for-the-badge&labelColor=111827" />
-<img src="https://img.shields.io/badge/Status-Aprendendo-FACC15?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/Stand-Web%20Development-6D28D9?style=for-the-badge&labelColor=1A0B2E" />
+<img src="https://img.shields.io/badge/Arc-Learning%20Mode-DB2777?style=for-the-badge&labelColor=1A0B2E" />
+<img src="https://img.shields.io/badge/Goal-First%20Tech%20Opportunity-FACC15?style=for-the-badge&labelColor=1A0B2E" />
+
+<br><br>
+
+<img src="https://media.tenor.com/58m1RO_LcR4AAAAC/jojo-jotaro.gif" width="260" />
 
 </div>
 
 ---
 
-## Sobre mim
+## ./sobre-mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha base na área de tecnologia com foco em **Desenvolvimento Web**.
+Olá, eu sou **João Rodrigues**, estudante de **Análise e Desenvolvimento de Sistemas**.
 
-Atualmente estudo **Angular**, **TypeScript**, **JavaScript**, **HTML**, **CSS**, consumo de APIs e versionamento com Git/GitHub.
+Estou construindo minha base na tecnologia com foco em **Desenvolvimento Web**, estudando criação de interfaces, lógica de programação, consumo de APIs e versionamento com Git/GitHub.
+
+Atualmente estou aprendendo na prática, desenvolvendo projetos, testando soluções e evoluindo aos poucos como futuro profissional de tecnologia.
 
 Também tenho interesse em boas práticas, organização de código e qualidade de software.
 
----
-
-## Objetivo
-
-Conquistar minha primeira oportunidade na área de tecnologia como **Desenvolvedor Web Júnior** ou **Estagiário em Desenvolvimento**.
-
----
-
-## Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,python,git,github,docker,figma&theme=dark" />
-
-</div>
-
----
-
-## Atualmente estudando
-
 ```txt
-Angular
-TypeScript
-JavaScript
-HTML5
-CSS3
-React
-Figma
-Git e GitHub
-Consumo de APIs
-Boas práticas de desenvolvimento
+Stand atual: Aprendizado
+Habilidade: Evoluir com prática
+Fraqueza: Bugs inesperados
+Objetivo: Primeira oportunidade em tecnologia
 ```
 
 ---
 
-## GitHub Stats
+## ./objetivo
+
+Conquistar minha primeira oportunidade na área de tecnologia como **Desenvolvedor Web Júnior** ou **Estagiário em Desenvolvimento**.
+
+Quero crescer com projetos reais, trabalho em equipe, boas práticas e desafios que me ajudem a evoluir profissionalmente.
+
+---
+
+## ./tecnologias
+
+### Tecnologias que já tenho contato
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=111827&title_color=FACC15&icon_color=DB2777&text_color=FFFFFF" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=111827&title_color=FACC15&text_color=FFFFFF" />
+</div>
+
+<br>
+
+### Tecnologias em aprendizado
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,angular,react,python,docker,figma&theme=dark" />
 
 </div>
 
 ---
 
-## Fora do código
+## ./aprendendo-agora
+
+```txt
+Angular
+TypeScript
+React
+JavaScript
+HTML5
+CSS3
+Figma
+Consumo de APIs
+Git e GitHub
+Docker
+Boas práticas de desenvolvimento
+Noções de qualidade de software
+```
+
+---
+
+## ./jojo-energy
+
+Sou fã de **JoJo’s Bizarre Adventure** e gosto muito dessa estética exagerada, dramática e cheia de personalidade.
+
+No meu perfil, uso essa inspiração como uma forma de representar evolução, presença e estilo na minha jornada como desenvolvedor.
+
+<div align="center">
+
+<img src="https://media.tenor.com/0AVbKGY_MxMAAAAC/jojo-joseph.gif" width="260" />
+
+</div>
+
+```txt
+Stand Name: Code Experience
+Power: Desenvolvimento Web
+Speed: Aprendizado constante
+Precision: Atenção aos detalhes
+Potential: Em evolução
+```
+
+---
+
+## ./github-status
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=1A0B2E&title_color=FACC15&icon_color=DB2777&text_color=FFFFFF" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=1A0B2E&title_color=FACC15&text_color=FFFFFF" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=1A0B2E&color=FFFFFF&line=FACC15&point=DB2777&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## ./fora-do-codigo
+
+Além da tecnologia, também gosto de:
 
 ```txt
 música
@@ -81,22 +142,22 @@ Pokémon
 aprender coisas novas
 ```
 
-Sou fã de **JoJo’s Bizarre Adventure** e gosto de uma estética marcante, estilosa e cheia de personalidade.
-
 Meu Pokémon favorito é o **Snorlax**.
+
+Para mim, ele representa equilíbrio: descansar quando necessário, mas continuar evoluindo com constância.
 
 ---
 
-## Contato
+## ./contato
 
 <div align="center">
 
 <a href="https://github.com/SEU_USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-1A0B2E?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=FACC15" />
+  <img src="https://img.shields.io/badge/Email-1A0B2E?style=for-the-badge&logo=gmail&logoColor=FACC15" />
 </a>
 
 </div>
