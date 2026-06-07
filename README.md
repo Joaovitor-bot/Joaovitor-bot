@@ -33,7 +33,6 @@ Também tenho interesse em boas práticas, organização de código e qualidade 
 ```txt
 Stand atual: Aprendizado
 Habilidade: Evoluir com prática
-Fraqueza: Bugs inesperados
 Objetivo: Primeira oportunidade em tecnologia
 ```
 
