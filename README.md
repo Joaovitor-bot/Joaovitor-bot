@@ -1,20 +1,20 @@
 <div align="center">
 
-# ⚡ João Rodrigues ⚡
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=230&color=gradient&customColorList=6,12,20,24,30&text=Jo%C3%A3o%20Rodrigues&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Web%20Developer%20in%20Progress&descSize=18&descAlignY=58" />
 
-### 💻「 Web Developer em formação 」🕺
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=FACC15&center=true&vCenter=true&width=800&lines=⚡+Desenvolvendo+minha+jornada+na+tecnologia...;💻+Estudando+Angular%2C+TypeScript+e+React...;🚀+Criando+minha+base+como+desenvolvedor...;🔥+Evoluindo+um+commit+por+vez...;⭐+Yare+Yare...+hora+de+codar." />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Stand-Web%20Development-6D28D9?style=for-the-badge&labelColor=1A0B2E" />
-<img src="https://img.shields.io/badge/Arc-Learning%20Mode-DB2777?style=for-the-badge&labelColor=1A0B2E" />
-<img src="https://img.shields.io/badge/Goal-First%20Tech%20Opportunity-FACC15?style=for-the-badge&labelColor=1A0B2E" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=21&pause=900&color=FACC15&center=true&vCenter=true&width=850&lines=Desenvolvendo+minha+jornada+na+tecnologia;Angular+%E2%80%A2+TypeScript+%E2%80%A2+React;Criando+minha+base+como+desenvolvedor;Evoluindo+um+commit+por+vez" />
 
 <br><br>
 
-<img src="https://media.tenor.com/58m1RO_LcR4AAAAC/jojo-jotaro.gif" width="260" />
+<img src="https://img.shields.io/badge/Web%20Developer-6D28D9?style=for-the-badge&labelColor=16051f" />
+<img src="https://img.shields.io/badge/Angular%20%7C%20TypeScript-DB2777?style=for-the-badge&labelColor=16051f" />
+<img src="https://img.shields.io/badge/Learning%20Arc-FACC15?style=for-the-badge&labelColor=16051f&color=FACC15" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&pause=1500&color=BB86FC&center=true&vCenter=true&width=650&lines=%E3%80%8C+Stand+em+desenvolvimento+%E3%80%8D;%E3%80%8C+Foco%2C+estilo+e+evolu%C3%A7%C3%A3o+%E3%80%8D" />
 
 </div>
 
@@ -96,7 +96,7 @@ No meu perfil, uso essa inspiração como uma forma de representar evolução, p
 
 <div align="center">
 
-<img src="https://media.tenor.com/kInezkNHuDwAAAAi/menacing-anime.gif" width="260" />
+<img src="https://media.tenor.com/0AVbKGY_MxMAAAAC/jojo-joseph.gif" width="260" />
 
 </div>
 
@@ -114,9 +114,9 @@ Potential: Em evolução
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Joaovitor-bot&show_icons=true&theme=radical&hide_border=true&bg_color=1A0B2E&title_color=FACC15&icon_color=DB2777&text_color=FFFFFF" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=1A0B2E&title_color=FACC15&icon_color=DB2777&text_color=FFFFFF" />
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitor-bot&layout=compact&theme=radical&hide_border=true&bg_color=1A0B2E&title_color=FACC15&text_color=FFFFFF" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=1A0B2E&title_color=FACC15&text_color=FFFFFF" />
 
 </div>
 
@@ -124,7 +124,7 @@ Potential: Em evolução
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joaovitor-bot&bg_color=1A0B2E&color=FFFFFF&line=FACC15&point=DB2777&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=1A0B2E&color=FFFFFF&line=FACC15&point=DB2777&area=true&hide_border=true" />
 
 </div>
 
