@@ -96,7 +96,7 @@ No meu perfil, uso essa inspiração como uma forma de representar evolução, p
 
 <div align="center">
 
-<img src="https://media.tenor.com/0AVbKGY_MxMAAAAC/jojo-joseph.gif" width="260" />
+<img src="https://media.tenor.com/kInezkNHuDwAAAAi/menacing-anime.gif" width="260" />
 
 </div>
 
@@ -114,9 +114,9 @@ Potential: Em evolução
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=1A0B2E&title_color=FACC15&icon_color=DB2777&text_color=FFFFFF" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Joaovitor-bot&show_icons=true&theme=radical&hide_border=true&bg_color=1A0B2E&title_color=FACC15&icon_color=DB2777&text_color=FFFFFF" />
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=1A0B2E&title_color=FACC15&text_color=FFFFFF" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitor-bot&layout=compact&theme=radical&hide_border=true&bg_color=1A0B2E&title_color=FACC15&text_color=FFFFFF" />
 
 </div>
 
@@ -124,7 +124,7 @@ Potential: Em evolução
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=1A0B2E&color=FFFFFF&line=FACC15&point=DB2777&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joaovitor-bot&bg_color=1A0B2E&color=FFFFFF&line=FACC15&point=DB2777&area=true&hide_border=true" />
 
 </div>
 
