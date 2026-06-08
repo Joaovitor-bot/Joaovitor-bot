@@ -8,9 +8,9 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Web%20Developer-6D28D9?style=for-the-badge&labelColor=16051f" />
-<img src="https://img.shields.io/badge/UX%2FUI-FACC15?style=for-the-badge&labelColor=16051f&color=FACC15" />
-<img src="https://img.shields.io/badge/Angular%20%7C%20TypeScript-DB2777?style=for-the-badge&labelColor=16051f" />
+<img src="https://img.shields.io/badge/Web%20Developer-D71920?style=for-the-badge&labelColor=071A40" />
+<img src="https://img.shields.io/badge/UX%2FUI-F4C430?style=for-the-badge&labelColor=071A40&color=F4C430" />
+<img src="https://img.shields.io/badge/Angular%20%7C%20TypeScript-1E5AA8?style=for-the-badge&labelColor=071A40" />
 
 <br><br>
 
