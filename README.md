@@ -22,7 +22,7 @@
 
 ---
 
-## ★ Sobre mim
+## ⭐ Sobre mim
 
 Olá, eu sou **João Rodrigues**, estudante de **Análise e Desenvolvimento de Sistemas**.
 
