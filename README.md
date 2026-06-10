@@ -26,11 +26,9 @@
 
 Olá, eu sou **João Rodrigues**, estudante de **Análise e Desenvolvimento de Sistemas**.
 
-Estou construindo minha base na tecnologia com foco em **Desenvolvimento Web**, estudando criação de interfaces, lógica de programação, consumo de APIs e versionamento com Git/GitHub.
+Tenho foco em **Desenvolvimento Web** e estou aprimorando minhas habilidades por meio de projetos práticos, estudando interfaces, APIs, Git/GitHub e boas práticas de desenvolvimento.
 
-Atualmente estou aprendendo na prática, desenvolvendo projetos, testando soluções e evoluindo aos poucos como futuro profissional de tecnologia.
-
-Também tenho interesse em boas práticas, organização de código e qualidade de software.
+Busco evoluir continuamente como profissional de tecnologia.
 
 Além da programação, gosto de cinema, música e musculação, hobbies que fazem parte da minha rotina e da minha forma de evoluir constantemente.
 
