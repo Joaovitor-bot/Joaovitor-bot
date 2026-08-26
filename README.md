@@ -22,7 +22,7 @@
 
 ---
 
-## ⭐ Sobre mim
+##  Sobre mim
 
 Olá, eu sou **João Rodrigues**, estudante de **Análise e Desenvolvimento de Sistemas**.
 
@@ -41,7 +41,7 @@ Hobby: Musculação
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Conquistar minha primeira oportunidade na área de tecnologia como **Desenvolvedor Web Júnior** ou **Estagiário em Desenvolvimento**.
 
